@@ -1,0 +1,1 @@
+"C:\Users\Dev\AppData\Local\UiPath\app-20.10.4-beta0001\UiRobot.exe" -file "C:\Users\Dev\Documents\UiPath\UiPaht Task Scheduler\UiPaht.Task.Scheduler.1.0.1.nupkg"

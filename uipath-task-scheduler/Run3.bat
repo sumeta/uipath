@@ -1,0 +1,1 @@
+"UiRobot.exe" -file "%~dp0Main.xaml"
